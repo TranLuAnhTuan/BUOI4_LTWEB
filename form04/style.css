@@ -1,0 +1,89 @@
+*{
+    font-family: Tahoma;
+    color: black;
+}
+
+th{
+    font-size: 20pt;
+    padding: 20pt;
+    color: white;
+}
+
+table{
+    border-collapse: collapse;
+    border-radius: 20px;
+    border-width: 0;
+    border:transparent;
+    background-image: linear-gradient(to bottom right, #9b2226,  #001219);
+
+    padding: 20pt;
+
+}
+
+td{
+    padding: 10pt 20pt;
+    font-size: 14pt;
+    color: azure;
+}
+
+
+input.txt{
+    padding: 5pt;
+    width: 235px;
+    color: white;
+    border-color: white;
+    background-color: transparent;
+}
+
+input.rdb{
+    padding: 5pt;
+    font-size: 11pt;
+    width: 25px;
+    border-color: white;
+    background-color: transparent;
+}
+
+
+button{
+    border-radius: 10px;
+    border-color: white;
+    background-color: transparent;
+    width: 80pt;
+    height: 35pt;
+    color: white;
+
+    font-weight: bold;
+    font-size: 14pt;
+
+    margin: 10pt;
+}
+
+select{
+    width: 80px;
+    height: 30px;
+    color: white;
+
+    padding: 5pt;
+
+    background: #161a1d;
+    background-color: transparent;
+
+}
+
+select.carrer{
+    width: 250px;
+    height: 30px;
+
+    padding: 5pt;
+    color: black;
+
+    background: transparent;
+    background-color: #f1faee;
+
+}
+
+textarea{
+    width: 235px;
+    height: 100px;
+    padding: 5pt;
+}
